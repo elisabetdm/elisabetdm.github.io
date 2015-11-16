@@ -1,20 +1,19 @@
 # Site settings
-title: Raio frontendizador!
-email: raio.frontendizador@gmail.com
+title: Interface e usabilidade
+email: elisabetdemarco@gmail.com
 description: > 
-  Raio frontendizador! Blog sobre desenvolvimento front end.
-  HTML, CSS, Javascript, por Jota Teles.
+  Anchor Pixel - Blog sobre Usabilidade, Interface, Pesquisa, Antropologia e metodologias de trabalho.
 baseurl: ""
-url: "http://www.jotateles.com.br"
-twitter_username: raiofront
-github_username:  teles
-author_name: Jota Teles
-facebook_username: jota.teles
+url: "http://www.anchorpixel.com.br"
+twitter_username: 
+github_username:  elisabetdm
+author_name: Elisabet De Marco
+facebook_username: 
 
 # ids for third party scripts
-hotjar_id: 64233
-google_analytics_id: UA-68664870
-disqus_shortname: jotateles
+hotjar_id: 104255
+google_analytics_id: UA-32369457-1
+disqus_shortname: elisabetdm
 
 # Build settings
 markdown: kramdown
